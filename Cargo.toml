@@ -8,3 +8,4 @@ gltf = { path = "../gltf" }
 glium = "0.16.0"
 env_logger = "*"
 log = "*"
+quick-error = "*"
